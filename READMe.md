@@ -106,7 +106,8 @@ An interactive **Customer Behaviour Dashboard** was created in Power BI using da
 ### 🔹 Dashboard Highlights
 - **Total Customers:** 3.9K  
 - **Average Purchase Amount:** $59.76  
-- **Average Review Rating:** 3.75  
+- **Average Review Rating:** 3.75
+- The Dashboard looklikes-(https://github.com/ZaidSid766/customer-purchase-analysis/blob/main/Screenshot%202025-10-22%20161651.png)
 
 ### 🔹 Key Visuals
 | **Visualization** | **Insight** |
